@@ -7,6 +7,7 @@
  */
 public class Einfamilienhaus extends Haus
 {
+    protected String gebeudeArt = "Einfamilienhaus";
     
     public Einfamilienhaus( double pHoeheProStockwerk, int pStockwerke, int pBesucher )
     {
