@@ -4,7 +4,7 @@ In diesem Repository geht es um Vererbung
 # Oberklasse Gebäude
 
     public class Gebaeude
-  {
+    {
       protected double hoehe;
 
       protected int besucher;
@@ -24,4 +24,4 @@ In diesem Repository geht es um Vererbung
           return besucher;
       }
 
-  }
+    }
