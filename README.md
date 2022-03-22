@@ -1,5 +1,5 @@
 # Gebeude
-In diesem Repository geht es um Vererbung
+In diesem Repository geht es um Vererbung. Von Jan Reger
 
 # Oberklasse Gebäude
 
