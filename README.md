@@ -3,6 +3,9 @@ In diesem Repository geht es um Vererbung
 
 # Oberklasse Gebäude
 
+Das ist die Oberklasse aller Folgenden Datein.
+
+
     public class Gebaeude
     {
       protected double hoehe;
